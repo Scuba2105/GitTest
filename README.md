@@ -1,2 +1,3 @@
 # GitTest
-TOP test file
+My first GitHub repo!
+Hello Odin!
